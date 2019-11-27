@@ -5,12 +5,9 @@ Android Jetpack CameraX
 
 ***
 
-
-
-![1](https://user-images.githubusercontent.com/17040639/69702181-a4324f00-1114-11ea-9b09-23ff9f2d7bfb.png)
-![2](https://user-images.githubusercontent.com/17040639/69702200-b14f3e00-1114-11ea-815a-5668bae762cf.png)
-![3](https://user-images.githubusercontent.com/17040639/69702276-d80d7480-1114-11ea-8e91-8e8cb679881a.png)
-
+![1](https://user-images.githubusercontent.com/17040639/69707679-32f89900-1120-11ea-95d0-f53fdbefe8b7.png)
+![2](https://user-images.githubusercontent.com/17040639/69707688-355af300-1120-11ea-901c-42346d8eba83.png)
+![3](https://user-images.githubusercontent.com/17040639/69707694-3724b680-1120-11ea-8d2a-e8002acaa10c.png)
 
 ***
 
